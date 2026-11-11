@@ -17,10 +17,11 @@
     "market_id": "Oklahoma City",
     "pets": "Yes",
     "prelease": true,
-    "rent": 1420,
+    "rent": 1200,
     "rental_fees": [],
     "lease_terms": [
-      { "term": "6", "price": "100.00", "deposit": "50.00" }
+      { "term": "6", "price": "100.00", "deposit": "50.00" },
+      { "term": "12", "price": "1200.00", "deposit": "50.00" }
     ],
     "special_offer": false,
     "tag": "TEST_VALID_SINGLE",
@@ -56,7 +57,8 @@
     "rental_fees": [],
     "lease_terms": [
       { "term": "6", "price": "100.00", "deposit": "50.00" },
-      { "term": "18", "price": "400.00", "deposit": "200.00" }
+      { "term": "18", "price": "400.00", "deposit": "200.00" },
+      { "term": "3", "price": "100.00", "deposit": "50.00" }
     ],
     "special_offer": false,
     "tag": "TEST_VALID_TWO",
